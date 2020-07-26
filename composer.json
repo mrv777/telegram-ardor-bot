@@ -1,0 +1,8 @@
+{
+    "name": "ardor.tools/telegram-bot",
+    "type": "project",
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": ">=0.63.1"
+    }
+}
